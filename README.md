@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Marco4556
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C++
-- 😄 Pronouns: He/Him
+you shouldn't be here. trust me.
 
 <!---
 Marco4556/Marco4556 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
