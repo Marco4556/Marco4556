@@ -1,6 +1,10 @@
-you shouldn't be here. trust me.
+Hello there, I'm Marco4556
 
+About me:
+- Italian
+- Game developer
+- I ❤️ Python
+- Proud Fedora user
 <!---
-Marco4556/Marco4556 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+you should't be here. trust me.
 --->
