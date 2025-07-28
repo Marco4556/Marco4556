@@ -4,7 +4,7 @@ About me:
 - Italian
 - Game developer
 - I ❤️ Python
-- Proud Fedora user
+- The DS is the best Nintendo Handled
 <!---
 you should't be here. trust me.
 --->
